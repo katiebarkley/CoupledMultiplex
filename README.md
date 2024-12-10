@@ -6,7 +6,7 @@ The new project includes group behavior.
 
 R code to conduct the simulations and analyse the results of the paper:
 
-- `FunctionsForHealthPaper_katie_version - Copy.R` is the functions used for the network modelling
+- `FunctionsForHealthPaper_katie_version.R` or `FunctionsForHealthPaper_katie_version_highcut.R` is the functions used for the network modelling
 - `ScriptForHealthPaper2_katie_version.R` runs the simulations
 - `AnalysisScript_Revised_katie_version.R` analyses the results to produce the figures and tables in the manuscript and supplementary
 
