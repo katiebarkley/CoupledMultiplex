@@ -10,7 +10,7 @@ R code to conduct the simulations and analyse the results of the paper:
 - `ScriptForHealthPaper2_katie_version.R` runs the simulations
 - `AnalysisScript_Revised_katie_version.R` analyses the results to produce the figures and tables in the manuscript and supplementary
 
-Due to the size of the files, runs had to be broken into different scripts. The files may contain numbers at the end such as 14 or words such as nocut. Numbers indicate the groups used for that simulation (see groupid.csv). WOrds like "nocut" indicate there was a policy change such as not connections in the system were cut for that version.  
+Due to the size of the files, runs had to be broken into different scripts. The files may contain numbers at the end such as 14 or words such as nocut. Numbers indicate the groups used for that simulation (see groupid.csv). Words like "nocut" and "highcut" indicate there was a policy change such as not cutting or cutting a lot of connections when adhereing to a policy.  
 
 The folder `params/` contains parameters sts and networks configuration:
 - Five `csv`s with the  parameter sets used to run the simulations and in the analysis.
