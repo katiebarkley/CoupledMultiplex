@@ -9,6 +9,7 @@ R code to conduct the simulations and analyse the results of the paper:
 - `FunctionsForHealthPaper_katie_version.R` or `FunctionsForHealthPaper_katie_version_highcut.R` is the functions used for the network modelling
 - `ScriptForHealthPaper2_katie_version.R` runs the simulations
 - `AnalysisScript_Revised_katie_version.R` analyses the results to produce the figures and tables in the manuscript and supplementary
+- Anything labelled ng goes with the `FunctionForHealthPaper.R` file.
 
 Due to the size of the files, runs had to be broken into different scripts. The files may contain numbers at the end such as 14 or words such as nocut. Numbers indicate the groups used for that simulation (see groupid.csv). Words like "nocut" and "highcut" indicate there was a policy change such as not cutting or cutting a lot of connections when adhereing to a policy.  
 
